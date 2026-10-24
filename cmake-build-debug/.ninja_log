@@ -1,0 +1,11 @@
+# ninja log v6
+3	445	7876978597623150	CMakeFiles/termproject.dir/main.cpp.obj	c861d2df1a5102c1
+449	625	7876978602083470	termproject.exe	152c0a4f7dfd6c14
+46	429	7876979223992533	CMakeFiles/termproject.dir/main.cpp.obj	c861d2df1a5102c1
+430	512	7876979227824567	termproject.exe	152c0a4f7dfd6c14
+18	622	7877034968179690	CMakeFiles/termproject.dir/main.cpp.obj	c861d2df1a5102c1
+623	729	7877034974232084	termproject.exe	152c0a4f7dfd6c14
+5	455	7877040035838634	CMakeFiles/termproject.dir/main.cpp.obj	c861d2df1a5102c1
+456	567	7877040040343589	termproject.exe	152c0a4f7dfd6c14
+52	478	7877040205700547	CMakeFiles/termproject.dir/main.cpp.obj	c861d2df1a5102c1
+479	560	7877040209971366	termproject.exe	152c0a4f7dfd6c14

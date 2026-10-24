@@ -1,0 +1,3 @@
+C:/Users/CIVAN ALTIN/CLionProjects/termproject/cmake-build-debug/CMakeFiles/termproject.dir
+C:/Users/CIVAN ALTIN/CLionProjects/termproject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/CIVAN ALTIN/CLionProjects/termproject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
